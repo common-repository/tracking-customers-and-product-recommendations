@@ -1,0 +1,243 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Product recommendations\n"
+"POT-Creation-Date: 2021-04-01 17:19+0700\n"
+"PO-Revision-Date: 2021-04-01 17:21+0700\n"
+"Last-Translator: \n"
+"Language-Team: banam8910@gmail.com\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e;printf;esc_html;sprintf\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/settings.php:13
+#, php-format
+msgid "<a href=\"%s\">%s</a>"
+msgstr ""
+
+#: admin/settings.php:56
+msgid "Your settings has been changed default setting."
+msgstr "Thiết đặt của bạn đã được thay đổi thiết đặt mặc định."
+
+#: admin/settings.php:87 admin/settings.php:88
+msgid "Product Recommendations"
+msgstr "Đề xuất sản phẩm"
+
+#: admin/settings.php:94 admin/settings.php:113 admin/settings.php:116
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: admin/settings.php:97
+msgid "Tracking customers"
+msgstr "Theo dõi khách hàng"
+
+#: admin/settings.php:117
+msgid "Shortcode"
+msgstr "Mã ngắn"
+
+#: admin/settings.php:127
+msgid "Save customers"
+msgstr "Lưu khách hàng"
+
+#: admin/settings.php:130
+msgid "Save customers who have viewed the product to database"
+msgstr "Lưu khách hàng đã xem sản phẩm vào cơ sở dữ liệu"
+
+#: admin/settings.php:134
+msgid "Cookie expires"
+msgstr "Thời gian lưu cookie"
+
+#: admin/settings.php:137
+msgid ""
+"Sets the cookie retention period for products viewed by customers. Unit: "
+"day(s). If this parameter is omitted or set to 0, the cookie will expire at "
+"the end of the session (when the browser closes)."
+msgstr ""
+"Thiết lập thời hạn cookie cho các sản phẩm mà khách hàng đã xem. Đơn vị: "
+"ngày. Nếu để trống hoặc giá trị là 0 cookie sẽ hết hạn khi tắt trình duyệt."
+
+#: admin/settings.php:141
+msgid "Recommendations follow taxonomies"
+msgstr "Gợi ý theo phân loại"
+
+#: admin/settings.php:159
+msgid "Recommendations follow order"
+msgstr "Gợi ý theo đơn hàng"
+
+#: admin/settings.php:162
+msgid "Product recommendations from products that a customer has purchased"
+msgstr "Đề xuất sản phẩm từ những sản phẩm khách hàng đã mua trước đây"
+
+#: admin/settings.php:166
+msgid "Time duration orders"
+msgstr "Thời gian đã đặt hàng"
+
+#: admin/settings.php:169
+msgid ""
+"The time of the customer order compared to the current date. This is used to "
+"apply product recommendations to customers. Unit: day(s)."
+msgstr ""
+"Thời gian khách hàng đã đặt hàng so với thời điểm hiện tại. Điều này sử dụng "
+"để áp dụng cho các đề xuất sản phẩm cho khách hàng. Đơn vị: ngày."
+
+#: admin/settings.php:173
+msgid "Products viewed page"
+msgstr "Trang sản phẩm đã xem"
+
+#: admin/settings.php:176 admin/settings.php:191
+msgid "Search page"
+msgstr "Tìm trang"
+
+#: admin/settings.php:188
+msgid "Product recommendations page"
+msgstr "Trang đề xuất sản phẩm"
+
+#: admin/settings.php:212
+msgid "Shortcode products viewed"
+msgstr "Mã ngắn sản phẩm đã xem"
+
+#: admin/settings.php:215 admin/settings.php:227
+msgid "Copy to clipboard"
+msgstr "Sao chép vào bộ nhớ tạm"
+
+#: admin/settings.php:215 admin/settings.php:227
+msgid "Copied"
+msgstr "Đã sao chép"
+
+#: admin/settings.php:216 admin/settings.php:228
+msgid "Copy"
+msgstr "Sao chép"
+
+#: admin/settings.php:219
+msgid "Show all products that customers have viewed"
+msgstr "Hiển thị tất cả sản phẩm khách hàng đã xem"
+
+#: admin/settings.php:224
+msgid "Shortcode product recommendations"
+msgstr "Mã ngắn đề xuất sản phẩm"
+
+#: admin/settings.php:231
+msgid "Show all recommended products for customers"
+msgstr "Hiển thị tất cả sản phẩm đề xuất cho khách hàng"
+
+#: admin/settings.php:345
+msgid "Tracking customer"
+msgstr "Theo dõi khách hàng"
+
+#: admin/settings.php:350
+msgid "Bulk actions"
+msgstr "Hành động"
+
+#: admin/settings.php:351
+msgid "Delete"
+msgstr "Xóa"
+
+#: admin/settings.php:359
+msgid "Search customer"
+msgstr "Tìm khách hàng"
+
+#: admin/settings.php:367 admin/settings.php:386 admin/tables.php:256
+#: includes/widgets/widget-product-recommendations.php:109
+msgid "Date"
+msgstr "Ngày"
+
+#: admin/settings.php:368
+msgid "Date from"
+msgstr "Từ ngày"
+
+#: admin/settings.php:369
+msgid "Date to"
+msgstr "Đến ngày"
+
+#: admin/settings.php:370
+msgid "Filter"
+msgstr "Lọc"
+
+#: admin/settings.php:371
+msgid "Reset"
+msgstr "Đặt lại"
+
+#: admin/settings.php:383 admin/tables.php:244
+msgid "Email"
+msgstr ""
+
+#: admin/settings.php:384 admin/tables.php:248
+msgid "IP"
+msgstr ""
+
+#: admin/settings.php:385 admin/tables.php:252
+msgid "User Agent"
+msgstr ""
+
+#: admin/settings.php:387
+msgid "View"
+msgstr "Xem"
+
+#: admin/tables.php:260
+msgid "Product"
+msgstr "Sản phẩm"
+
+#: includes/widgets/widget-product-recommendations.php:8
+msgid "Displays a list of recommended products."
+msgstr "Hiển thị danh sách của những sản phẩm được đề xuất."
+
+#: includes/widgets/widget-product-recommendations.php:10
+msgid "NL2A Product Recommendations"
+msgstr "NL2A Sản phẩm đề xuất"
+
+#: includes/widgets/widget-product-recommendations.php:72
+#: includes/widgets/widget-products-viewed.php:77
+#, php-format
+msgid "<div class=\"widget-product-item\"><a href=\"%s\">%s</a></div>"
+msgstr ""
+
+#: includes/widgets/widget-product-recommendations.php:101
+msgid "Product recommendations"
+msgstr "Sản phẩm đề xuất"
+
+#: includes/widgets/widget-product-recommendations.php:110
+msgid "Price"
+msgstr "Giá"
+
+#: includes/widgets/widget-product-recommendations.php:111
+msgid "Random"
+msgstr "Ngẫu nhiên"
+
+#: includes/widgets/widget-product-recommendations.php:112
+msgid "Sales"
+msgstr "Giảm giá"
+
+#: includes/widgets/widget-product-recommendations.php:122
+#: includes/widgets/widget-products-viewed.php:120
+msgid "Default"
+msgstr "Mặc định"
+
+#: includes/widgets/widget-product-recommendations.php:123
+#: includes/widgets/widget-products-viewed.php:121
+msgid "Woocommerce widget"
+msgstr ""
+
+#: includes/widgets/widget-product-recommendations.php:139
+msgid "DESC"
+msgstr ""
+
+#: includes/widgets/widget-product-recommendations.php:140
+msgid "ASC"
+msgstr ""
+
+#: includes/widgets/widget-products-viewed.php:8
+msgid "Displays a list of viewed products."
+msgstr "Hiển thị danh sách những sản phẩm đã xem."
+
+#: includes/widgets/widget-products-viewed.php:10
+msgid "NL2A Products viewed"
+msgstr "NL2A Sản phẩm đã xem"
+
+#: includes/widgets/widget-products-viewed.php:106
+msgid "Products viewed"
+msgstr "Sản phẩm đã xem"

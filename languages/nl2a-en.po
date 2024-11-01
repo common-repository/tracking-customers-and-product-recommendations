@@ -1,0 +1,239 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Product recommendations\n"
+"POT-Creation-Date: 2021-04-01 17:20+0700\n"
+"PO-Revision-Date: 2021-04-01 17:20+0700\n"
+"Last-Translator: \n"
+"Language-Team: banam8910@gmail.com\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;printf;esc_html;sprintf\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/settings.php:13
+#, php-format
+msgid "<a href=\"%s\">%s</a>"
+msgstr ""
+
+#: admin/settings.php:56
+msgid "Your settings has been changed default setting."
+msgstr ""
+
+#: admin/settings.php:87 admin/settings.php:88
+msgid "Product Recommendations"
+msgstr ""
+
+#: admin/settings.php:94 admin/settings.php:113 admin/settings.php:116
+msgid "Settings"
+msgstr ""
+
+#: admin/settings.php:97
+msgid "Tracking customers"
+msgstr ""
+
+#: admin/settings.php:117
+msgid "Shortcode"
+msgstr ""
+
+#: admin/settings.php:127
+msgid "Save customers"
+msgstr ""
+
+#: admin/settings.php:130
+msgid "Save customers who have viewed the product to database"
+msgstr ""
+
+#: admin/settings.php:134
+msgid "Cookie expires"
+msgstr ""
+
+#: admin/settings.php:137
+msgid ""
+"Sets the cookie retention period for products viewed by customers. Unit: "
+"day(s). If this parameter is omitted or set to 0, the cookie will expire at "
+"the end of the session (when the browser closes)."
+msgstr ""
+
+#: admin/settings.php:141
+msgid "Recommendations follow taxonomies"
+msgstr ""
+
+#: admin/settings.php:159
+msgid "Recommendations follow order"
+msgstr ""
+
+#: admin/settings.php:162
+msgid "Product recommendations from products that a customer has purchased"
+msgstr ""
+
+#: admin/settings.php:166
+msgid "Time duration orders"
+msgstr ""
+
+#: admin/settings.php:169
+msgid ""
+"The time of the customer order compared to the current date. This is used to "
+"apply product recommendations to customers. Unit: day(s)."
+msgstr ""
+
+#: admin/settings.php:173
+msgid "Products viewed page"
+msgstr ""
+
+#: admin/settings.php:176 admin/settings.php:191
+msgid "Search page"
+msgstr ""
+
+#: admin/settings.php:188
+msgid "Product recommendations page"
+msgstr ""
+
+#: admin/settings.php:212
+msgid "Shortcode products viewed"
+msgstr ""
+
+#: admin/settings.php:215 admin/settings.php:227
+msgid "Copy to clipboard"
+msgstr ""
+
+#: admin/settings.php:215 admin/settings.php:227
+msgid "Copied"
+msgstr ""
+
+#: admin/settings.php:216 admin/settings.php:228
+msgid "Copy"
+msgstr ""
+
+#: admin/settings.php:219
+msgid "Show all products that customers have viewed"
+msgstr ""
+
+#: admin/settings.php:224
+msgid "Shortcode product recommendations"
+msgstr ""
+
+#: admin/settings.php:231
+msgid "Show all recommended products for customers"
+msgstr ""
+
+#: admin/settings.php:345
+msgid "Tracking customer"
+msgstr ""
+
+#: admin/settings.php:350
+msgid "Bulk actions"
+msgstr ""
+
+#: admin/settings.php:351
+msgid "Delete"
+msgstr ""
+
+#: admin/settings.php:359
+msgid "Search customer"
+msgstr ""
+
+#: admin/settings.php:367 admin/settings.php:386 admin/tables.php:256
+#: includes/widgets/widget-product-recommendations.php:109
+msgid "Date"
+msgstr ""
+
+#: admin/settings.php:368
+msgid "Date from"
+msgstr ""
+
+#: admin/settings.php:369
+msgid "Date to"
+msgstr ""
+
+#: admin/settings.php:370
+msgid "Filter"
+msgstr ""
+
+#: admin/settings.php:371
+msgid "Reset"
+msgstr ""
+
+#: admin/settings.php:383 admin/tables.php:244
+msgid "Email"
+msgstr ""
+
+#: admin/settings.php:384 admin/tables.php:248
+msgid "IP"
+msgstr ""
+
+#: admin/settings.php:385 admin/tables.php:252
+msgid "User Agent"
+msgstr ""
+
+#: admin/settings.php:387
+msgid "View"
+msgstr ""
+
+#: admin/tables.php:260
+msgid "Product"
+msgstr ""
+
+#: includes/widgets/widget-product-recommendations.php:8
+msgid "Displays a list of recommended products."
+msgstr ""
+
+#: includes/widgets/widget-product-recommendations.php:10
+msgid "NL2A Product Recommendations"
+msgstr ""
+
+#: includes/widgets/widget-product-recommendations.php:72
+#: includes/widgets/widget-products-viewed.php:77
+#, php-format
+msgid "<div class=\"widget-product-item\"><a href=\"%s\">%s</a></div>"
+msgstr ""
+
+#: includes/widgets/widget-product-recommendations.php:101
+msgid "Product recommendations"
+msgstr ""
+
+#: includes/widgets/widget-product-recommendations.php:110
+msgid "Price"
+msgstr ""
+
+#: includes/widgets/widget-product-recommendations.php:111
+msgid "Random"
+msgstr ""
+
+#: includes/widgets/widget-product-recommendations.php:112
+msgid "Sales"
+msgstr ""
+
+#: includes/widgets/widget-product-recommendations.php:122
+#: includes/widgets/widget-products-viewed.php:120
+msgid "Default"
+msgstr ""
+
+#: includes/widgets/widget-product-recommendations.php:123
+#: includes/widgets/widget-products-viewed.php:121
+msgid "Woocommerce widget"
+msgstr ""
+
+#: includes/widgets/widget-product-recommendations.php:139
+msgid "DESC"
+msgstr ""
+
+#: includes/widgets/widget-product-recommendations.php:140
+msgid "ASC"
+msgstr ""
+
+#: includes/widgets/widget-products-viewed.php:8
+msgid "Displays a list of viewed products."
+msgstr ""
+
+#: includes/widgets/widget-products-viewed.php:10
+msgid "NL2A Products viewed"
+msgstr ""
+
+#: includes/widgets/widget-products-viewed.php:106
+msgid "Products viewed"
+msgstr ""
